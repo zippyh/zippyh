@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a freshman at quinnipiac university, My major is computer science. I use this acount to upload projects for school.
+
 <!--
 **zippyh/zippyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
